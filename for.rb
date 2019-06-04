@@ -2,7 +2,7 @@
 def using_for
 	checklist = 1..10
 	#your code here
-	for p in practice
+	for practice in checklist
 	puts "Wingardium Leviosa"
   end
 end
